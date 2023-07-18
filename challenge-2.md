@@ -1,5 +1,11 @@
 # 🌱 Challenge II: Deploy your own Subgraph
 
+
+# My Contract Address and Endpoint
+Contract address 0x8c97Aa3982cD48143FD238e3aD83273CC9A163fC
+Endpoint https://api.studio.thegraph.com/deploy/
+
+
 ## Description
 
 Deploy a simple smart contract on the Polygon Mumbai testnet and deploy a subgraph for it.
