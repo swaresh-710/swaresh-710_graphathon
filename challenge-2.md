@@ -3,7 +3,8 @@
 
 # My Contract Address and Endpoint
 Contract address 0x8c97Aa3982cD48143FD238e3aD83273CC9A163fC
-Endpoint https://api.studio.thegraph.com/deploy/
+
+Endpoint  https://api.studio.thegraph.com/query/49965/swareshsubgraph/v0.0.1
 
 
 ## Description
